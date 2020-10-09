@@ -1,3 +1,4 @@
 # This is homework for Information retrieval and data mining
-## name: 李洋
-## id: 201818130206
+## 姓名: 李洋
+## 学号: 201818130206
+## 班级：18级智能班
