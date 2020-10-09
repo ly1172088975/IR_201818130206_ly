@@ -1,1 +1,1 @@
-# IR_201818130206_ly
+# This is homework for Information retrieval and data mining
