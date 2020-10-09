@@ -74,8 +74,7 @@ for j in range(1,len(text_set)+1):
 <br/>
 
 ## 4.测试结果
-根据[link](https://trec.nist.gov/data/microblog/2014/topics.desc.MB171-225.txt)的信息进行查询，以下列举几个查询结果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201009101544669.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMzcxNTk2,size_16,color_FFFFFF,t_70#pic_center)
+![image text](https://github.com/ly1172088975/IR_201818130206_ly/blob/main/homework1/1.jpg)
 经过在原tweets文件和dict文件中检索，以上查询结果无误。
 
 <br/>
