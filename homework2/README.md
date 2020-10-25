@@ -75,7 +75,7 @@ while True:
             j += 1
 ```
 具体查询结果如下：
-
+![image text](https://github.com/ly1172088975/IR_201818130206_ly/blob/main/homework2/img.jpg)
 <br/>
 
 ## 4.总结
